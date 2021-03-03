@@ -10,14 +10,15 @@ h2{
 }
 li{
     color: crimson;
-    font-size: 120%;
     font: courier;
 }
 table, td, th {
-  border: 1px solid black;
-  width: 600px;
-  text-align: left;
-  border-collapse: collapse;
-  background-color: white;
+    border: 1px solid black;
+    width: 600px;
+    text-align: left;
+    border-collapse: collapse;
+    background-color: white;
 }
-
+a{
+    font-size: 120%;
+}
