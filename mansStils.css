@@ -1,0 +1,16 @@
+
+body{
+    background: aliceblue;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: cyan;
+}
+li{
+    color: crimson;
+    font-size: 120%;
+    font: courier;
+}
+
